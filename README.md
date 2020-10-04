@@ -1,5 +1,6 @@
-# instaBot
+# instaBot 4.0
  A bot which follows your commands for Instagram.
+ New Improvements. Below Mentioned
 
 ````````````````````````
 Name:Instabot-4
